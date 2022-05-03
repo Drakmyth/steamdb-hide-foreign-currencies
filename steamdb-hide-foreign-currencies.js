@@ -8,6 +8,7 @@
 // @updateURL    https://github.com/Drakmyth/steamdb-hide-foreign-currencies/raw/master/steamdb-hide-foreign-currencies.user.js
 // @downloadURL  https://github.com/Drakmyth/steamdb-hide-foreign-currencies/raw/master/steamdb-hide-foreign-currencies.user.js
 // @supportURL   https://github.com/Drakmyth/steamdb-hide-foreign-currencies/issues
+// @license      MIT
 // @match        https://steamdb.info/app/*
 // @run-at       document-body
 // @grant        none
