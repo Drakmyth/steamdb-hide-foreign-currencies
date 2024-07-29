@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         SteamDB Hide Foreign Currencies
 // @namespace    https://github.com/Drakmyth/steamdb-hide-foreign-currencies
-// @version      0.1
+// @version      0.2
 // @author       Drakmyth
 // @description  A Tampermonkey userscript to hide foreign currency information on SteamDB
 // @homepage     https://github.com/Drakmyth/steamdb-hide-foreign-currencies
