@@ -10,6 +10,8 @@
 // @supportURL   https://github.com/Drakmyth/steamdb-hide-foreign-currencies/issues
 // @license      MIT
 // @match        https://steamdb.info/app/*
+// @match        https://steamdb.info/bundle/*
+// @match        https://steamdb.info/sub/*
 // @run-at       document-body
 // @grant        none
 // ==/UserScript==
